@@ -12,14 +12,14 @@
 
 - 📫 How to reach me **abeldegefu120@gmail.com**
 
-- ⚡ Fun fact **I think am Funny**
+- ⚡ Fun fact **I'm fan of arsenal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Ab_hevel120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abel-degefu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://instagram.com/ab_hevel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
-<a href="https://youtube.com/hevel-tech?si=7RtQi0YbC8nIXSfR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
+<a href="https://youtube.com/c/hevel-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
